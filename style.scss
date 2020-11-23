@@ -1,0 +1,26 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+h2{
+
+line-height: 4.2rem;
+font-size: 7rem;
+.line {
+    margin-left: 4vw;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: -2.5vh;
+    padding-top: 2vh;
+    height: 160px;
+
+    span {
+        position: absolute;
+        color: white;
+        display: block;
+    }
+}
+}
